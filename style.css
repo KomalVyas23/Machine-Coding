@@ -1,0 +1,21 @@
+.container {
+    display: grid;
+    place-items: center;
+}
+
+.star_container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    /* border: 5px solid red; */
+    /* background-color: lightblue; */
+}
+
+.star {
+    font-size: 2rem;
+    color:gray;
+}
+
+.yellow{
+    color:yellow
+}
